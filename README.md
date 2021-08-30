@@ -1,0 +1,2 @@
+# easybank
+Frontend Challenge Solution
